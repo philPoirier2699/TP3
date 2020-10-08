@@ -40,10 +40,15 @@
 #
 # image files are treated as binary by default.
 ###############################################################################
-#*.jpg   binary
-#*.png   binary
-#*.gif   binary
-
+*.jpg   binary
+*.png   binary
+*.gif   binary
+*.asset binary
+*.obj binary
+*.meta binary
+*.prefab binary
+*.mat binary
+*.unity binary
 ###############################################################################
 # diff behavior for common document formats
 # 
